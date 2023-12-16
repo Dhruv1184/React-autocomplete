@@ -10,8 +10,9 @@ function App() {
     // console.log(e.keyCode)
     if (e.keyCode == 27){
       setVisible(!visible)
-    }
     console.log('Escape')
+      
+    }
   }
   
   function Search(e){
